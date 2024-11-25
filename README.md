@@ -9,6 +9,7 @@ Welcome to the **Manual Testing Roadmap** repository! This repository provides a
 Manual Testing involves the process of manually executing test cases without using automation tools. It ensures that the software behaves as expected by validating its functionality, usability, and performance against predefined requirements.
 
 ---
+![image](https://github.com/user-attachments/assets/fff2c99f-f291-4de4-ad87-91f21befc39a)
 
 ## 🗺️ Roadmap Overview
 
